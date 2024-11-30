@@ -1,16 +1,16 @@
 body {
-    color: white;
-    background: black;
+    color:blue ;
+    background: pink;
     margin: 0px;
-    font-family: "Chakra Petch", sans-serif;
+    font-family: "Game ON", sans-serif;
     margin-bottom: 100px;
 }
 
 header {
-    border-bottom: solid 2px rgb(42, 122, 228);
+    border-bottom: solid 2px rgb(52, 132, 238);
     padding: 20px;
     font-size: 32px;
-    color: rgb(42, 122, 228);
+    color: rgb(52, 132, 238);
 }
 
 .chamada {
@@ -22,15 +22,15 @@ header {
 }
 
 .chamada-texto {
-    margin-right: 5%;
+    margin-right: 10%;
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 50px;
 }
 
 p {
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .categoria-videos {
@@ -50,11 +50,11 @@ p {
     height: 200px;
 }
 
-.categoria-videos img:hover {
+.categoria-videos img:ON {
     opacity: 1.0;
-    border: 3px solid green;
+    border: 3px solid blac;
 }
 
 .categoria h2 {
-    color: rgb(42, 122, 228);
+    color: rgb(52, 132, 238);
 }
