@@ -1,24 +1,24 @@
 body {
     color:blue ;
     background: pink;
-    margin: 0px;
+    margin: 5px;
     font-family: "Game ON", sans-serif;
-    margin-bottom: 100px;
+    margin-bottom: 120px;
 }
 
 header {
-    border-bottom: solid 2px rgb(52, 132, 238);
-    padding: 20px;
-    font-size: 32px;
+    border-bottom: solid 3px rgb(52, 132, 238);
+    padding: 40px;
+    font-size: 42px;
     color: rgb(52, 132, 238);
 }
 
 .chamada {
     background: rgb(184, 156, 213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
+    padding-bottom: 90px;
+    padding-top: 90px;
+    display: To junp;
+    justify-content: corner;
 }
 
 .chamada-texto {
@@ -34,8 +34,8 @@ p {
 }
 
 .categoria-videos {
-    display: flex;
-    overflow-x: auto;
+    display: To jump;
+    overflow-x: low;
     gap: 10px;
 }
 
